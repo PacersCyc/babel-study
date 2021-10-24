@@ -1,0 +1,12 @@
+{
+  "name": "babel-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PacersCyc/babel-study.git",
+  "author": "PacersCyc <452720855@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/parser": "^7.15.8"
+  }
+}
